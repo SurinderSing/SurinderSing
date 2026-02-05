@@ -1,4 +1,4 @@
-![banner](https://github.com/Siddharthchn/Siddharthchn/assets/109435160/f3de3504-f8b1-42ae-807d-4f6f21e5972f)
+![banner](./assets/273409987-f3de3504-f8b1-42ae-807d-4f6f21e5972f.png)
 <div align="center">
 # 👋 Hi, I’m Surinder Singh  
 ### Frontend Engineer | React • TypeScript • Next.js  
