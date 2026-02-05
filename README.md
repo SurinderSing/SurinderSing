@@ -1,5 +1,5 @@
+![banner](https://github.com/Siddharthchn/Siddharthchn/assets/109435160/f3de3504-f8b1-42ae-807d-4f6f21e5972f)
 <div align="center">
-
 # 👋 Hi, I’m Surinder Singh  
 ### Frontend Engineer | React • TypeScript • Next.js  
 
@@ -95,14 +95,11 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-<div align="center">
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurinderSing&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurinderSing&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 ---
 
