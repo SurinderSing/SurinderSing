@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss)
 
@@ -47,7 +47,7 @@
 
 ### DevOps & Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
