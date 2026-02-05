@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=javascript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss)
 
@@ -36,12 +37,12 @@
 ![ShadCN](https://img.shields.io/badge/ShadCN/UI-000?style=flat)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 
 ### DevOps & Tooling
