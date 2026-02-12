@@ -6,7 +6,7 @@
 **Building scalable, high-performance web applications with modern frontend architecture.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](http://surinder-singh-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surinder-singh-ba466a1ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surinder-singh-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurinderSing)
 
 </div>
@@ -107,7 +107,7 @@
 ## 🤝 Connect With Me
 
 - **Email:** ssurindersingh100@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/surinder-singh-ba466a1ab  
+- **LinkedIn:** https://www.linkedin.com/in/surinder-singh-dev/  
 - **Portfolio:** http://surinder-singh-portfolio.vercel.app  
 - **GitHub:** https://github.com/SurinderSing  
 
