@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- Frontend Engineer with **4+ years of experience** building production-grade SaaS and AI-driven platforms  
+- Frontend Engineer with **5+ years of experience** building production-grade SaaS and AI-driven platforms  
 - Specialized in **React, TypeScript, and Next.js** with strong focus on performance and scalability  
 - Experienced in **real-time systems** (WebSockets, VoIP, SSE) and complex state management  
 - Strong collaborator with product and backend teams; ship features, not demos  
